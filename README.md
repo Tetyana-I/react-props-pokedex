@@ -3,7 +3,7 @@ This pokemon application (a “pokedex”) is a React components and properties 
 
 The application uses 3 components:
 
-*App*  - Render a single Pokedex.
+*App*  - renders a single Pokedex.
 
 *Pokecard* - shows a single Pokemon, with their name, image, and type.
 
@@ -16,7 +16,7 @@ The application uses 3 components:
     
     `https://github.com/Tetyana-I/react-props-pokedex.git`
 
-2. Switch to application directory
+2. Switch to an application directory
 
     `cd react-props-pokedex`
 
